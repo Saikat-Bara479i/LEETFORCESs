@@ -1,4 +1,4 @@
-#  LeetForces — Online Coding Judge Backend
+#  LeetForces — Online Coding Judge0 Backend
 
 This project is a backend system for an online coding platform similar to LeetCode / Codeforces.  
 It allows users to solve coding problems, run code with multiple test cases, and store submission results.
